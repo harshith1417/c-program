@@ -1,1 +1,3 @@
 these are all are the basics of c program language 
+The C language is a high-level, general-purpose programming language.
+It provides a straightforward, consistent, powerful interface for programming systems.
